@@ -4,7 +4,7 @@ After reading more than 3,000 articles about Interface Design, I have put togeth
 
 ### Introduction & Foundation of Design Systems:
 
-* [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6)
+* [Defining Design Systems](https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6){:target="_blank"}
 * [Beyond the Toolkit—Spreading a System Across People and Products](https://www.youtube.com/watch?v=JSBXcxvcwIo)
 * [A Design System isn’t a Project. It’s a Product, Serving Products](https://medium.com/eightshapes-llc/a-design-system-isn-t-a-project-it-s-a-product-serving-products-74dcfffef935)
 * [Patterns ≠ Components](https://medium.com/eightshapes-llc/patterns-components-2ce778cbe4e8)
