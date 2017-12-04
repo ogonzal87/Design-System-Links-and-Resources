@@ -9,7 +9,7 @@ After reading more than 3,000 articles about Interface Design, I have put togeth
 * [A Design System isn’t a Project. It’s a Product, Serving Products](https://medium.com/eightshapes-llc/a-design-system-isn-t-a-project-it-s-a-product-serving-products-74dcfffef935)
 * [Patterns ≠ Components](https://medium.com/eightshapes-llc/patterns-components-2ce778cbe4e8)
 * [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
-* [Design Systems Sprint 0: The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
+* [The Silver Bullet of Product Development](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
 * [The Future of Design Tools is not Prototyping. Introducing UXPin Systems](https://medium.com/@marcintreder/the-future-of-design-tools-is-not-prototyping-introducing-uxpin-systems-2c937e7ca567)
 * [A Design System Grammar](https://daneden.me/2017/07/12/a-design-system-grammar/)
 * [Designing Product UI Systems](https://daneden.me/2017/03/29/designing-systems/)
