@@ -19,6 +19,7 @@ After reading more than 3,000 articles about Interface Design, I have put togeth
 * [The full stack design system](https://blog.intercom.com/the-full-stack-design-system/)
 * [How Creating A Design Language Can Streamline Your UX Design Process](https://www.smashingmagazine.com/2016/12/how-creating-a-design-language-can-streamline-your-ux-design-process/)
 * [Design Principles](https://medium.com/@marcintreder/design-system-sprint-4-design-principles-8efb22d8a208)
+* [Becoming Leonardo: How Great Designers Think] (https://www.youtube.com/watch?v=rdH8Kuku9tA)
 * [The Anatomy of All Interfaces](https://medium.muz.li/the-anatomy-of-all-digital-interfaces-11d43f55eaf)
 
 
