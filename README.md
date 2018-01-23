@@ -20,6 +20,7 @@ After reading more than 3,000 articles about Interface Design, I have put togeth
 * [How Creating A Design Language Can Streamline Your UX Design Process](https://www.smashingmagazine.com/2016/12/how-creating-a-design-language-can-streamline-your-ux-design-process/)
 * [Design Principles](https://medium.com/@marcintreder/design-system-sprint-4-design-principles-8efb22d8a208)
 * [Becoming Leonardo - How Great Designers Think](https://www.youtube.com/watch?v=rdH8Kuku9tA)
+* [How to Save UI Designers & Front-End Developers up to 50% of Their Time](https://uxplanet.org/how-to-save-ui-designers-front-end-developers-up-to-50-of-their-time-39a30254ec05)
 * [The Anatomy of All Interfaces](https://medium.muz.li/the-anatomy-of-all-digital-interfaces-11d43f55eaf)
 
 
@@ -57,6 +58,9 @@ After reading more than 3,000 articles about Interface Design, I have put togeth
 ### Space
 * [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 * [A framework for creating a predictable & harmonious spacing system for faster design-dev handoff](https://blog.prototypr.io/a-framework-for-creating-a-predictable-and-harmonious-spacing-system-8eee8aaf773c)
+
+### Motion
+* [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
 
 
 ### Iconography
